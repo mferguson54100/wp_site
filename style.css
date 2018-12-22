@@ -1,0 +1,70 @@
+/*
+Theme Name: myTheme
+Theme URI: /
+Author: Mike Ferg
+Author URI: 
+Description: fist theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+
+#side-bar{
+    float: left;
+    background: red;
+    width: 200px;
+    padding: 22px;
+
+
+}
+
+#site-content{
+    background: white;
+    padding: 22px;
+    margin-left: 244px;
+    max-width: 600px;
+}
+
+#site-header{
+    font-size: 42px;
+    padding: 22px;
+    text-align: center;
+
+
+}
+
+body{
+    font-family: "Merriweather";
+    line-height:1.6;
+}
+
+.post{
+    margin-bottom: 66px;
+    padding-block-end: 50px;
+    border-bottom: 1px solid #ddd;
+
+}
+.post h2{
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.button{
+    display: inline-block;
+    padding: 11px;
+    color: #ffffff;
+    background: purple;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+.post .excerpt{
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
+
+.content p{
+    margin-bottom: 22px;
+}
