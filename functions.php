@@ -10,7 +10,7 @@ function myTheme_theme_assets() {
     wp_enqueue_style( 'myTheme-fonts', '//fonts.googleapis.com/css?family=Merriweather' );
 }
 add_action( 'wp_enqueue_scripts', 'myTheme_theme_assets' );
-
+//testing a line commit 
 
 ?>
 
