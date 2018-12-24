@@ -1,4 +1,3 @@
 <div id = 'side-bar'>
-side bar goes here
-
+<?php dynamic_sidebar( 'myTheme_sideBar' ); ?>
 </div>

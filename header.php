@@ -20,4 +20,5 @@
 <div id ='site-container'></div>
         
 		<?php get_sidebar() ?>
+		
         <div id ='site-content'>
