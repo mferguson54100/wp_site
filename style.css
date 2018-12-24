@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 #side-bar{
     float: left;
     background: red;
-    width: 200px;
+    width: 300px;
     padding: 22px;
 
 
@@ -22,8 +22,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 #site-content{
     background: white;
-    padding: 22px;
-    margin-left: 244px;
+    padding: 25px;
+    margin-left: 366px;
     max-width: 600px;
 }
 

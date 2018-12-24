@@ -18,7 +18,6 @@
 
 
 <div id ='site-container'></div>
-        <div id='side-bar'>
-            sidebar goes here
-            </div>
+        
+		<?php get_sidebar() ?>
         <div id ='site-content'>
