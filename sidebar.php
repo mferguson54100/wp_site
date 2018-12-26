@@ -1,3 +1,3 @@
-<div id = 'side-bar'>
+<ul id = 'side-bar'>
 <?php dynamic_sidebar( 'sidebar-1' ); ?>
-</div>
+</ul>

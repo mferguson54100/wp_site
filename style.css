@@ -13,9 +13,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 #side-bar{
     float: left;
-    background: red;
+    background: grey;
     width: 300px;
     padding: 22px;
+    
 
 
 }
@@ -67,4 +68,20 @@ body{
 
 .content p{
     margin-bottom: 22px;
+}
+
+#side-bar >li{
+    list-style: none;
+
+}
+.widget{
+    font-size:13px;
+    margin-bottom: 22px;
+}
+
+.widgettitle{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: black;
+
 }
