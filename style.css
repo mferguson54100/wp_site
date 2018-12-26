@@ -85,3 +85,13 @@ body{
     color: black;
 
 }
+
+#nav-bar{
+    text-align: center;
+
+}
+
+#nav-bar li{
+    display:inline-block;
+    font-size: 20px;
+}

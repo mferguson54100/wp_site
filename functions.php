@@ -2,6 +2,10 @@
 
 add_theme_support('title-tag');
 
+register_nav_menus( array(
+    'header-menu'=>'My-theme header menu'
+));
+
 function myTheme_theme_assets() {
 	// Theme stylesheet.
     
